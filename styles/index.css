@@ -316,6 +316,7 @@ main{
 /* footer section start */
 footer{
     background: #0B0223;
+    padding: 50px;
 }
 .footer-container{
     border: 1 px solid black;
@@ -359,7 +360,6 @@ footer{
     display: flex;
     justify-content: center;
     align-items: center;
-     margin-bottom:20px;
 }
 
 
